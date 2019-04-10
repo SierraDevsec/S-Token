@@ -1,0 +1,21 @@
+{
+  "name": "biibrostoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "S-Token"
+  ],
+  "author": "Developer DeeJay.L & Developer Choi joo hyun\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bu\u001b[\u001b[C\u001b[2~\u001b[C\u001b[C\u001b[C\u001b[C ju hyun",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0",
+    "truffle-hdwallet-provider": "^1.0.6"
+  }
+}
